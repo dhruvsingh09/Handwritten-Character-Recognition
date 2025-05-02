@@ -18,3 +18,6 @@ This project focuses on recognizing handwritten characters using deep learning t
 - OpenCV (for image pre-processing)
 - Jupyter Notebook (for experimentation and visualization)
 - Streamlit / Tkinter (optional GUI)
+
+👨‍💻 Author
+[Dhruv Singh]
